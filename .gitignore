@@ -57,3 +57,6 @@ redis/mount/redis-node-*
 
 # opensearch data
 opensearch/mount/*
+
+# Python envs 
+NoSQL/

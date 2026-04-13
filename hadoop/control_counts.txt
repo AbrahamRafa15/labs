@@ -1,0 +1,6 @@
+=== CONTADORES LOCALES SECRETOS ===
+Electronica: 100313
+Ropa: 100150
+Hogar: 99660
+Juguetes: 99807
+Deportes: 100070
