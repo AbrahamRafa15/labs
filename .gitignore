@@ -61,3 +61,5 @@ opensearch/mount/*
 
 # Python envs 
 NoSQL/
+
+hadoop/*mount*
