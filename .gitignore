@@ -43,10 +43,18 @@ spark/vscode_server
 spark/mount/spark-master
 spark/mount/spark-warehouse
 spark/mount/spark-worker-*
-spark/mount/spark-jupyter
 spark/mount/iceberg-warehouse
 spark/mount/local-warehouse
-spark/mount/spark_job_env.tar.gz
+spark/mount/spark-jupyter/data
+spark/mount/spark-jupyter/spark_job_env.tar.gz
+spark/mount/spark-jupyter/metastore_db
+spark/mount/spark-jupyter/derby.log
+spark/mount/spark-jupyter/.*
+spark/mount/shared-workspace/data
+spark/mount/shared-workspace/spark-warehouse
+spark/mount/shared-workspace/iceberg-warehouse
+spark/mount/shared-workspace/local-warehouse
+spark/mount/shared-workspace/derby.log
 
 # mongodb data
 mongodb/config/*
